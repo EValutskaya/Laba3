@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 "Hello"
+=======
+"Hello"
+"H", "e", "l", "l", "o"
+>>>>>>> Initial commit 3.
